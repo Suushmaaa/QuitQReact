@@ -3,7 +3,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 
 
-import ProductList from "./Components/ProductList";
+import ProductList from "./Components/product/ProductList";
 
 function App() {
   return (
